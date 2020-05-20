@@ -1,0 +1,15 @@
+{"set": [["category_id", "OP"]], "sup": 3.0}
+{"set": [["Priority", 2.0]], "sup": 0.7142}
+{"set": [["Priority", 2.0], ["category_id", "OP"]], "sup": 0.61442}
+{"set": [["ratings_disabled", 1.0]], "sup": 0.35754}
+{"set": [["ratings_disabled", 1.0], ["category_id", "OP"]], "sup": 0.35754}
+{"set": [["ratings_disabled", 3.0]], "sup": 0.35092}
+{"set": [["ratings_disabled", 3.0], ["category_id", "OP"]], "sup": 0.56092}
+{"set": [["ratings_disabled", 1.0], ["Priority", 2.0]], "sup": 0.29566}
+{"set": [["category_id", "OP"], ["ratings_disabled", 2.0]], "sup": 0.29154}
+{"set": [["ratings_disabled", 3.0], ["Priority", 2.0]], "sup": 0.27902}
+{"set": [["ratings_disabled", 3.0], ["Priority", 2.0], ["category_id", "OP"]], "sup": 0.27902}
+{"set": [["Priority", 2.0], ["ratings_disabled", 2.0]], "sup": 0.23974}
+{"set": [["category_id", "OP"], ["Priority", 2.0], ["ratings_disabled", 2.0]], "sup": 0.23974}
+{"set": [["Priority", 1.0]], "sup": 0.18556}
+{"set": [["Priority", 1.0], ["category_id", "OP"]], "sup": 0.18556}
